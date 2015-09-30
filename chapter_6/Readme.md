@@ -6,7 +6,8 @@ The folders that were just created are in tmp.
 Can you show me what files are in that directory?
 
 nonames-air:tmp $ ls
-stuff
+  
+  stuff
 
 
 What files are in your home directory?
@@ -21,11 +22,16 @@ nonames-air:home $ ls
 
 
 nonames-air:home $ ls -a
-.  ..
+
+.  
+
+..
 
 What's in slash temp?
 
 nonames-air:tmp $ ls
+
+
 KSOutOfProcessFetcher.501.HVXI9pQwBk_bgiVJaTNhiQNhqxc=
 launch-AGdphB
 launch-huskUb

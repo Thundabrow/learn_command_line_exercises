@@ -1,6 +1,6 @@
 Can you make a temp directory?
 
-Yes.  mkdir temp
+Yes.  mkdir tmp
 
 
 Can you make a log directory in your class directory?

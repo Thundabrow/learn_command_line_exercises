@@ -37,3 +37,9 @@ launch-AGdphB
 launch-huskUb
 launchd-149.PzPXpw
 launchd-458.yxcQLq
+
+
+ls -lR lists the files and directories in the current 
+directory, including permission information and creation time.
+
+

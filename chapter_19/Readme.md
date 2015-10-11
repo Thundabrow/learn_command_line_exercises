@@ -1,15 +1,15 @@
 What option to ls tells it to output file size in human readable form?
 
     man ls
-    -s      Display the number of file system blocks
-                 actually used by each file, in units of
-                 512 bytes, where partial units are
-                 rounded up to the next integer value.  If
-                 the output is to a terminal, a total sum
-                 for all the file sizes is output on a
-                 line before the listing.  The environment
-                 variable BLOCKSIZE overrides the unit
-                 size of 512 bytes.
+      -h      When used with the -l option, use unit
+                 suffixes: Byte, Kilobyte, Megabyte, Giga-
+                 byte, Terabyte and Petabyte in order to
+                 reduce the number of digits to three or
+                 less using base 2 for sizes.
+
+    Example:  nonames-air:chapter_19 $ ls -lh
+              total 8
+              -rw-r--r--  1 WhiteWolf  staff   1.3K Oct 10 23:31 Readme.m
 
 
 Is there a case insensitive option to grep?
